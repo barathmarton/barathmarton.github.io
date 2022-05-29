@@ -1,0 +1,39 @@
+HTML
+
+<h1>Nagy betűs szöveg</h1>
+<h2>H6-ig foflyamatosan kisebb</h2>
+
+<p>Új bekezdés</p>
+
+<a href="URL">Megjelenő link neve</a>		//link megnyitása
+<a target="blank" href="oldal címe"></a>	//külön lapon nyílik meg
+
+<img src="Link" alt="kép helyett megjelenő szöveg">
+ <img  width="200px" src="" alt="Hamburger kép">	//méretezezz kép
+
+<ul>
+	<li>Rendezetlen lista, felsorolás</li>
+</ul>
+
+<ol>
+<li>Rendezett, számozott lista</lil>
+</ol>
+	
+</br>   //sortörés
+	
+	
+Táblázat:
+
+<thead></thead>	//fejléc táblázatnak
+<th></th>
+
+<tbody></tbody>	//fő rész táblázatnak
+
+<tfoot>	//lábléc táblázatnak
+	
+<table>Táblázat </table>
+<tr>Táblázat sorok</tr>
+<td>Cellák</td>
+
+ <td rowspan="2">21:00</td>		//cella összevonása
+ <td colspan="2">09:00</td>		//cella kiterjesztése
